@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">emoGram</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="ifre">Şifre</string>
+    <string name="giri_yap">Giriş yap</string>
+    <string name="kaydol">Kaydol</string>
+</resources>
